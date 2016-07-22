@@ -54,9 +54,8 @@
  *
  * NOTE: If you change these, also change the error_reporting() code below
  */
-
 	switch(dirname(__FILE__)){
-		case 'C:\wamp\www\CodeIgniter_CMS\public_html':
+		case 'C:/wamp/www/CodeIgniter_CMS/public_html':
 			define('ENVIRONMENT','development');
 
 			break;
